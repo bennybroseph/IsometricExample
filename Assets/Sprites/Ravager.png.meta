@@ -1,0 +1,554 @@
+fileFormatVersion: 2
+guid: bbb1e2d95bbf09a4c8e7b5e1b1d670cf
+timeCreated: 1493254735
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Ravager_0
+    21300002: Ravager_1
+    21300004: Ravager_2
+    21300006: Ravager_3
+    21300008: Ravager_4
+    21300010: Ravager_5
+    21300012: Ravager_6
+    21300014: Ravager_7
+    21300016: Ravager_8
+    21300018: Ravager_9
+    21300020: Ravager_10
+    21300022: Ravager_11
+    21300024: Ravager_12
+    21300026: Ravager_13
+    21300028: Ravager_14
+    21300030: Ravager_15
+    21300032: Ravager_16
+    21300034: Ravager_17
+    21300036: Ravager_18
+    21300038: Ravager_19
+    21300040: Ravager_20
+    21300042: Ravager_21
+    21300044: Ravager_22
+    21300046: Ravager_23
+    21300048: Ravager_24
+    21300050: Ravager_25
+    21300052: Ravager_26
+    21300054: Ravager_27
+    21300056: Ravager_28
+    21300058: Ravager_29
+    21300060: Ravager_30
+    21300062: Ravager_31
+    21300064: Ravager_32
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: WebGL
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Ravager_0
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 306
+        width: 20
+        height: 27
+      alignment: 9
+      pivot: {x: 0.4, y: 0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Ravager_1
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 304
+        width: 21
+        height: 30
+      alignment: 9
+      pivot: {x: 0.4, y: 0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Ravager_2
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 306
+        width: 24
+        height: 27
+      alignment: 9
+      pivot: {x: 0.4, y: 0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Ravager_3
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 273
+        width: 21
+        height: 27
+      alignment: 9
+      pivot: {x: 0.4, y: 0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Ravager_4
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 271
+        width: 23
+        height: 29
+      alignment: 9
+      pivot: {x: 0.4, y: 0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Ravager_5
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 274
+        width: 23
+        height: 26
+      alignment: 9
+      pivot: {x: 0.4, y: 0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Ravager_6
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 235
+        width: 31
+        height: 36
+      alignment: 9
+      pivot: {x: 0.4, y: 0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Ravager_7
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 235
+        width: 32
+        height: 25
+      alignment: 9
+      pivot: {x: 0.4, y: 0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Ravager_8
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 228
+        width: 30
+        height: 31
+      alignment: 9
+      pivot: {x: 0.4, y: 0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Ravager_9
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 199
+        width: 28
+        height: 34
+      alignment: 9
+      pivot: {x: 0.4, y: 0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Ravager_10
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 200
+        width: 29
+        height: 25
+      alignment: 9
+      pivot: {x: 0.4, y: 0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Ravager_11
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 200
+        width: 29
+        height: 24
+      alignment: 9
+      pivot: {x: 0.4, y: 0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Ravager_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 88
+        width: 64
+        height: 94
+      alignment: 9
+      pivot: {x: 0.4, y: 0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Ravager_13
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 165
+        width: 22
+        height: 28
+      alignment: 9
+      pivot: {x: 0.4, y: 0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Ravager_14
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 164
+        width: 21
+        height: 28
+      alignment: 9
+      pivot: {x: 0.4, y: 0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Ravager_15
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 165
+        width: 20
+        height: 25
+      alignment: 9
+      pivot: {x: 0.4, y: 0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Ravager_16
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 164
+        width: 22
+        height: 28
+      alignment: 9
+      pivot: {x: 0.4, y: 0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Ravager_17
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 132
+        width: 24
+        height: 28
+      alignment: 9
+      pivot: {x: 0.4, y: 0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Ravager_18
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 131
+        width: 21
+        height: 28
+      alignment: 9
+      pivot: {x: 0.4, y: 0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Ravager_19
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 131
+        width: 25
+        height: 27
+      alignment: 9
+      pivot: {x: 0.4, y: 0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Ravager_20
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 132
+        width: 24
+        height: 28
+      alignment: 9
+      pivot: {x: 0.4, y: 0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Ravager_21
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 95
+        width: 22
+        height: 28
+      alignment: 9
+      pivot: {x: 0.4, y: 0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Ravager_22
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 94
+        width: 21
+        height: 30
+      alignment: 9
+      pivot: {x: 0.4, y: 0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Ravager_23
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 94
+        width: 21
+        height: 31
+      alignment: 9
+      pivot: {x: 0.4, y: 0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Ravager_24
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 94
+        width: 29
+        height: 31
+      alignment: 9
+      pivot: {x: 0.4, y: 0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Ravager_25
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 61
+        width: 24
+        height: 28
+      alignment: 9
+      pivot: {x: 0.4, y: 0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Ravager_26
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 61
+        width: 23
+        height: 29
+      alignment: 9
+      pivot: {x: 0.4, y: 0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Ravager_27
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 61
+        width: 23
+        height: 29
+      alignment: 9
+      pivot: {x: 0.4, y: 0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Ravager_28
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 61
+        width: 28
+        height: 30
+      alignment: 9
+      pivot: {x: 0.4, y: 0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Ravager_29
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 33
+        width: 23
+        height: 25
+      alignment: 9
+      pivot: {x: 0.4, y: 0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Ravager_30
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 33
+        width: 24
+        height: 26
+      alignment: 9
+      pivot: {x: 0.4, y: 0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Ravager_31
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 1
+        width: 23
+        height: 25
+      alignment: 9
+      pivot: {x: 0.4, y: 0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Ravager_32
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 1
+        width: 23
+        height: 25
+      alignment: 9
+      pivot: {x: 0.4, y: 0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
